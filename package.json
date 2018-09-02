@@ -1,0 +1,21 @@
+{
+  "name": "electron-dialog-examples",
+  "version": "0.0.1",
+  "description": "Electron dialog examples",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/pfitzer/electron-dialog-examples.git",
+  "keywords": [
+    "Electron",
+    "dialog",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Michael Pfister",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
